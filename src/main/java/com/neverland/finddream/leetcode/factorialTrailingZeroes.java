@@ -27,7 +27,9 @@ public class factorialTrailingZeroes {
 
     public static void main(String args[]){
 
-        System.out.println(trailingZeroes2(200));
+        System.out.println(trailingZeroes2(20));
+        System.out.println(trailingZeroes4(20));
+
 
     }
 
