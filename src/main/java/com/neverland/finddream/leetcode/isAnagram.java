@@ -11,11 +11,11 @@ public class isAnagram {
 
     public static  void main(String args[]){
 
-
+      System.out.println(isAnagram("valuse","eevaluse"));
 
     }
 
-    public boolean isAnagram(String s, String t) {
+    public static boolean isAnagram(String s, String t) {
         if (s == null || t == null || s.length() != t.length()) {
             return false;
         }
