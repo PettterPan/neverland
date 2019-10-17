@@ -34,6 +34,7 @@ public class IntersectionofTwoLinkedLists {
     class ListNode{
         ListNode next;
         ListNode pre;
+        int val ;
     }
 
     /*这两个单链表，也可以看做是两数组，找出其中重复元素开始位置的值，

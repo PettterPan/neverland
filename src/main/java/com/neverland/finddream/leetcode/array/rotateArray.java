@@ -1,4 +1,4 @@
-package com.neverland.finddream.leetcode;
+package com.neverland.finddream.leetcode.array;
 
 /**
  * @author siwei.pan
